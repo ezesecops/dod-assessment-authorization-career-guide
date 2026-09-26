@@ -1374,19 +1374,3 @@ If you take three things from this guide:
 The RMF/A&A career is the longest lever in DoD cyber. Pull it.
 
 ---
-
-## Related Pages in This Vault
-
-- [[Cyber Career Guide - Index]]
-- [[Cyber Career Guide - Zero Trust Architecture for DoD]]
-- [[Cyber Career Guide - DoD Cloud Security]]
-- [[Cyber Career Guide - Supply Chain & Hardware Security]]
-- [[Cyber Career Guide - UAS & Drone Systems Cybersecurity]]
-- [[Cyber Career Guide - Space Systems & Satellite Cybersecurity]]
-- [[Cyber Career Guide - Ground Command & Control (C2) Systems Cybersecurity]]
-- [[Cyber Career Guide - OT-ICS Industrial Control Systems Cybersecurity]]
-- [[Cyber Career Guide - Tactical & Mesh Networks (MANET-FANET) Cybersecurity]]
-- [[Cyber Career Guide - Embedded Systems & Firmware Security]]
-- [[Cyber Career Guide - Electronic Warfare & RF Spectrum Cybersecurity]]
-- [[HOW TO PUBLISH - DoD Cybersecurity Career Guide on GitHub]]
-- [[learntodefend.guide - Website Architecture & Agent Briefing]]
