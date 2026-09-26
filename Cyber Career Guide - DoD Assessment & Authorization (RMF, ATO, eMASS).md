@@ -1331,21 +1331,17 @@ The career-ending move is to sign something you don't believe. If you're an ISSO
 
 ## Part 19: Connecting This Track to the Others
 
-RMF/A&A is the connective tissue across every other track in this index:
+RMF/A&A is the connective tissue across every many other tracks including: 
 
-- [[Cyber Career Guide - Zero Trust Architecture for DoD]]: the new control philosophy being grafted onto RMF. The DoD ZT RA's 91 activities will gradually become RMF overlays.
-- [[Cyber Career Guide - DoD Cloud Security]]: FedRAMP, IL2/4/5/6, and JWCC inheritance is half of any modern ATO package.
-- [[Cyber Career Guide - Supply Chain & Hardware Security]]: SR family in 800-53 Rev 5, NIST SP 800-161, SBOMs, all live here.
-- [[Cyber Career Guide - DoD Cloud Security]]: cloud impact levels, P-ATO inheritance.
-- [[Cyber Career Guide - OT-ICS Industrial Control Systems Cybersecurity]]: OT systems have their own RMF dialect; PIT overlay, NIST 800-82.
-- [[Cyber Career Guide - Embedded Systems & Firmware Security]]: PIT overlay, weapons system RMF.
-- [[Cyber Career Guide - UAS & Drone Systems Cybersecurity]]: every fielded UAS has an ATO behind it.
-- [[Cyber Career Guide - Space Systems & Satellite Cybersecurity]]: Space Platform overlay, USSF authorization variants.
-- [[Cyber Career Guide - Tactical & Mesh Networks (MANET-FANET) Cybersecurity]]: deployed tactical systems have field-amended ATOs.
-- [[Cyber Career Guide - Ground Command & Control (C2) Systems Cybersecurity]]: C2 systems are usually the ATO showcases.
-- [[Cyber Career Guide - Electronic Warfare & RF Spectrum Cybersecurity]]: special access programs, specialized authorization.
+- Zero Trust Architecture for DoD  the new control philosophy being grafted onto RMF. The DoD ZT RA's 91 activities will gradually become RMF overlays.
+- DoD Cloud Security: FedRAMP, IL2/4/5/6, and JWCC inheritance is half of any modern ATO package.
+- Supply Chain & Hardware Security: SR family in 800-53 Rev 5, NIST SP 
+- OT-ICS Industrial Control Systems Cybersecurity: OT systems have their own RMF dialect; PIT overlay, NIST 800-82.
+- Embedded Systems & Firmware Security: PIT overlay, weapons system RMF.
+- UAS & Drone Systems Cybersecurity: every fielded UAS has an ATO behind it.
+- Space Systems & Satellite Cybersecurity: Space Platform overlay, USSF authorization variants.
 
-If you master RMF, you can speak the language of all the other tracks. Every other engineer in DoD needs you to clear their system. That is the leverage.
+If you master RMF, you can speak the language of all the other tracks. Every other engineer in DoD needs you to clear their system. Thats leverage.
 
 ---
 
@@ -1357,7 +1353,7 @@ If you master RMF, you can speak the language of all the other tracks. Every oth
 - **Forgetting AO is your customer**: you serve the AO. Brief the AO. Don't brief peers as if they were AOs.
 - **Letting POA&Ms fester**: POA&M discipline is a leading indicator of how you'll be staffed.
 - **Faking inheritance**: claiming controls inherited from cloud when you didn't read the CRM. SCAs will catch this.
-- **Avoiding ConMon**: the post-ATO ConMon work is where you build credibility. Engineers respect ISSOs who stay in the trench post-launch.
+- **Avoiding ConMon**: the post-ATO ConMon work is where you build credibility. Engineers respect ISSOs who stay in the trenches post-launch.
 - **Not building writing chops**: the role is fundamentally a writing job. If you don't write well, hit Strunk & White, Pinker, *The Pyramid Principle*.
 - **Staying in policy**: pure policy roles cap your career. Stay close enough to systems to maintain technical fluency.
 
@@ -1371,6 +1367,6 @@ If you take three things from this guide:
 2. **Master eMASS.** It is the operating tool. Mastery here is invisible to most candidates and obvious to the hiring panel.
 3. **Become the AO whisperer.** The ISSOs and ISSMs who get promoted are the ones who can sit across from an AO, articulate residual risk in one paragraph, and walk out with a signed ATO. That skill is built by practicing risk articulation, not by reading another framework.
 
-The RMF/A&A career is the longest lever in DoD cyber. Pull it.
+The RMF/A&A career is the longest lever from a DoD cyber perspective. Pull it.
 
 ---
