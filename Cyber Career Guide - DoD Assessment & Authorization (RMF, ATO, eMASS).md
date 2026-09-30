@@ -105,7 +105,7 @@ Most career guides give you salary bands and stop, which is useless at the momen
 
 ## Part 1: The Vocabulary You Must Memorize Before Anything Else
 
-This field is acronym-soup. You will sound illiterate if you mix these up in a meeting. Memorize them cold:
+This field is acronym-soup. You will sound illiterate if you mix these up in a meeting. Try your best to have a good working understanding of all of these terms.
 
 | Term             | Expansion                                               | What it means in practice                                                                                     |
 | ---------------- | ------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------- |
@@ -361,7 +361,7 @@ True cATO programs include parts of Platform One, Kessel Run, Kobayashi Maru, BE
 
 The Joint Authorization Board (JAB) historically issued a **Provisional ATO** for cloud services, but the JAB was dissolved in 2024, replaced by a FedRAMP Board, and OMB M-24-15 replaced the JAB P-ATO path with agency-driven authorizations and Program Authorizations (see also the 2025 "FedRAMP 20x" overhaul). Existing P-ATOs persist; federal customers issue their own ATO inheriting from the FedRAMP authorization. DoD-specific cloud authorization layers on the [DoD Cloud Computing SRG](https://dl.dod.cyber.mil/wp-content/uploads/cloud/SRG/) (Security Requirements Guide) on top of FedRAMP, creating IL2/IL4/IL5/IL6 impact levels.
 
-[[Cyber Career Guide - DoD Cloud Security]] covers FedRAMP/IL levels in depth.
+[[Cyber Career Guide - DoD Cloud Security]] (guide i'm release at a later date) covers FedRAMP/IL levels in depth.
 
 ### Type Accreditation / Type Authorization
 
